@@ -13,7 +13,6 @@ public class LOGINMANAGER : MonoBehaviour
     //Sino, escribir "Access Denied"
     // Start is called before the first frame update
 
-    public GameObject boton;
     public Text HolderContraseña;
     public string contraseña;
    
